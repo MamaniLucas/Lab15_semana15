@@ -1,0 +1,5 @@
+Nombre: Myriam 
+Nota 1: 20 
+Nota 2: 20 
+Promedio: 20.0 
+Aprobado: True 

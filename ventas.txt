@@ -1,0 +1,13 @@
+2	Zapallo	5
+3	calabaza	5
+4	cebolla	2
+Fecha: 07/12/2021
+Subtotal: 33
+IGV: 5.9399999999999995
+Total: 38.9410	durazno	4
+12	sandia	5
+7	platano	4
+Fecha: 08/12/2021
+Subtotal: 128
+IGV: 23.04
+Total: 151.04
